@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body{
+    font-family: 'Anton', sans-serif;
+    background-color: rgb(0, 247, 255);
+    text-align: center;
+    padding: 30px;
+
+}
+
+h2{
+    color: rgb(255, 0, 0);
+    padding: 10px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
